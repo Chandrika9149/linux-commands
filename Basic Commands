@@ -4,10 +4,14 @@ ubuntu@ip-172-31-31-243:~$ pwd
 /home/ubuntu
 
 ls – Lists files and folders
-
 ls -l (detailed list)
-
 ls -a (shows hidden files)
+Example: 
+ubuntu@ip-172-31-31-243:~$ ls
+-linux-commands
+
+
+
 
 
 
