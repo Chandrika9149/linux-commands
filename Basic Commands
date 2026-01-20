@@ -10,6 +10,21 @@ Example:
 ubuntu@ip-172-31-31-243:~$ ls
 -linux-commands
 
+cd- change directory
+cd /home/ubuntu
+
+mkdir -create new folder
+Ex: mkdir project
+
+rmdir -delete an empty folder
+rmdir folder_name
+
+rm file_name – Delete a file
+
+rm -r folder_name – Delete folder with contents
+
+
+
 
 
 
